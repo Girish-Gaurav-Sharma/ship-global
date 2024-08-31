@@ -1,0 +1,4 @@
+.listlayout{
+  display: grid;
+  gap: 3px; 
+}
